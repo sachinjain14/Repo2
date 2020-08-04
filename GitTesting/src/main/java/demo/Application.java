@@ -7,10 +7,6 @@ package demo;
  * Change A
  * Change B
  * Change C
- * Change XY
- * Adding Change F
- * Change Q
- * Adding Change P
  * 
  * @author Dell
  *
@@ -19,6 +15,4 @@ public class Application {
 	public static void main(String[] args) {
 		System.out.println("Jai Hanumaan Jee Kee!!");
 	}
-	//Change D
-	//Adding Change G
 }
