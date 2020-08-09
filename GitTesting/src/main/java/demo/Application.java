@@ -6,9 +6,6 @@ package demo;
  * 
  * Change A
  * Change B
- * Change C
- * Change E
- * Change D
  * 
  * @author Dell
  *
