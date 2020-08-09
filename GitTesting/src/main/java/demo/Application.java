@@ -7,8 +7,7 @@ package demo;
  * Change A
  * Change B
  * Change C
- * Change F
- * Change E
+ * Change EF
  * 
  * @author Dell
  *
